@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\bin\Debug\net6.0\Задача 66.exe
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\bin\Debug\net6.0\Задача 66.deps.json
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\bin\Debug\net6.0\Задача 66.runtimeconfig.json
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\bin\Debug\net6.0\Задача 66.dll
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\bin\Debug\net6.0\Задача 66.pdb
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.dll
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\refint\Задача 66.dll
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.pdb
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\Задача 66.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\ДЗ\3 курс\Homework 9\Tasks\Задача 66\obj\Debug\net6.0\ref\Задача 66.dll
